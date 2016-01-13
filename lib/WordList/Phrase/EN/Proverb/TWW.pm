@@ -6,6 +6,8 @@ package WordList::Phrase::EN::Proverb::TWW;
 use WordList;
 our @ISA = qw(WordList);
 
+# STATS
+
 1;
 # ABSTRACT: Proverb phrases from Tom Wills
 
